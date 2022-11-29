@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:weightSum="10"
+    android:orientation="vertical"
+    tools:context=".MainActivity"
+    android:background="@color/background"
+    android:paddingHorizontal="20dp"
+    android:paddingVertical="10dp"
+    >
+    <LinearLayout
+        android:id="@+id/linearLayout"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+
+        android:paddingVertical="10dp"
+
+
+        android:weightSum="18"
+
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        android:gravity="center"
+        >
+
+
+        <TextView
+            android:id="@+id/title"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+
+            android:layout_weight="12"
+            android:fontFamily="@font/poppins_medium"
+            android:gravity="center"
+            android:paddingTop="7dp"
+            android:text="Chọn thì"
+
+            android:textColor="#FF0033"
+            android:textStyle="bold|italic"
+            android:textSize="30dp">
+
+        </TextView>
+
+    </LinearLayout>
+
+    <ListView
+        android:layout_marginTop="10dp"
+        android:id="@+id/listView"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="10"
+        >
+    </ListView>
+
+</LinearLayout>

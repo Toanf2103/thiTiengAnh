@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Hoc/Project/Calculate/app/src/main/res/drawable/border_radius_btn.xml" value="0.1485" />
+        <entry key="..\:/Hoc/Project/Calculate/app/src/main/res/drawable/ic_icon_canbac.xml" value="0.1485" />
+        <entry key="..\:/Hoc/Project/Calculate/app/src/main/res/drawable/ic_icon_chia.xml" value="0.1485" />
+        <entry key="..\:/Hoc/Project/Calculate/app/src/main/res/drawable/ic_icon_log.xml" value="0.1485" />
+        <entry key="..\:/Hoc/Project/Calculate/app/src/main/res/drawable/ic_icon_minus.xml" value="0.1485" />
+        <entry key="..\:/Hoc/Project/Calculate/app/src/main/res/drawable/ic_icon_mu.xml" value="0.1485" />
+        <entry key="..\:/Hoc/Project/Calculate/app/src/main/res/drawable/ic_icon_nhan.xml" value="0.1485" />
+        <entry key="..\:/Hoc/Project/Calculate/app/src/main/res/drawable/ic_icon_plus.xml" value="0.1485" />
+        <entry key="..\:/Hoc/Project/Calculate/app/src/main/res/drawable/ic_launcher_background.xml" value="0.1485" />
+        <entry key="..\:/Hoc/Project/Calculate/app/src/main/res/layout/activity_detail.xml" value="0.25416666666666665" />
+        <entry key="..\:/Hoc/Project/Calculate/app/src/main/res/layout/activity_main.xml" value="0.24010416666666667" />
+        <entry key="..\:/Hoc/Project/Calculate/app/src/main/res/layout/item.xml" value="0.25416666666666665" />
+        <entry key="..\:/Hoc/Project/Calculate/app/src/main/res/layout/item_calculate.xml" value="0.253125" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
